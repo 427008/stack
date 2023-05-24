@@ -3,12 +3,12 @@
   - [Spring](https://spring.io/) возможности Microservices + Web apps  
     пример кода:
 `
-    @SpringBootApplication
-    @RestController
-    public class DemoApplication {
-        @GetMapping("/helloworld")
-        public String hello() {
-            return"Hello World!";
-        }
-    }
+    @SpringBootApplication  
+    @RestController  
+    public class DemoApplication {  
+        @GetMapping("/helloworld")  
+        public String hello() {  
+            return"Hello World!";  
+        }  
+    }  
 `
