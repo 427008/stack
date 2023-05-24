@@ -27,8 +27,9 @@
   - [Django](https://www.djangoproject.com), [Flask](https://flask.palletsprojects.com/en/2.3.x)  
     основные возможности: микросервисы, основной Python бакэнд + шаблонизаторы страниц  
     плюсы:
-    - широко распространенный фреймворк с большим количеством модулей (библиотек)
-    - Python обычно есть в любых linux-дистрибутивах из коробки
-    - Среда разработки PyCharm Community
-    - docker friendly
-    - Python также можно использовать в ML, как linux task script (PowerShell), 
+    - широко распространенные фреймворки.
+    - большое количество модулей (библиотек) для Python.
+    - Python обычно есть в любых linux-дистрибутивах из коробки.
+    - Среда разработки PyCharm Community.
+    - docker friendly.
+    - Python также можно использовать в ML, как linux task script (PowerShell).
