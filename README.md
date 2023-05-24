@@ -21,7 +21,7 @@
 ```
 
   - [JavaFX](https://openjfx.io)
-    для десктоп приложений open-source framework, скорее приложение к Spring, когда надо что то маленькое но быстро
+    основные возможности: open-source cross-platform GUI apps
     
 2. Python
   - [Django](https://www.djangoproject.com), [Flask](https://flask.palletsprojects.com/en/2.3.x)  
@@ -44,3 +44,4 @@ def hello_world():
     return "<p>Hello, World!</p>"  
 ```
   - [Kivy](https://github.com/kivy/kivy)
+    основные возможности: open-source cross-platform GUI apps
