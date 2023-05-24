@@ -33,3 +33,13 @@
     - Среда разработки PyCharm Community.
     - docker friendly.
     - Python также можно использовать в ML, как linux task script (PowerShell).
+    - простой язык (пример кода):
+```
+from flask import Flask  
+
+app = Flask(__name__)  
+
+@app.route("/")  
+def hello_world():  
+    return "<p>Hello, World!</p>"  
+```
