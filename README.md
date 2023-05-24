@@ -1,6 +1,6 @@
 # stack
 1. Java
-  - [Spring](https://spring.io/) 
+  - [Spring](https://spring.io/)  
     основные возможности: Microservices + Web apps  
     пример кода:
 ```
