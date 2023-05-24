@@ -7,6 +7,7 @@
     - есть OpenJDK & [Axiom JDK](https://axiomjdk.ru/pages/about) (БЕЛЛСОФТ, включена в Единый реестр российских программ),  
     - среда для разработки IntelliJ IDEA Community Edition
     - docker friendly - декларируется поддержка создания приложений для "облака"
+    - возможно использование технологий Kotlin (может компилироваться в JS), WebFlux (reactive programming), [jmix](https://www.jmix.io/ms-access-alternative/)
     - простой язык, пример кода:
 ```
     @SpringBootApplication  
@@ -19,5 +20,4 @@
     }  
 ```
 
-    - возможно использование технологий Kotlin (может компилироваться в JS), WebFlux (reactive programming), [jmix](https://www.jmix.io/ms-access-alternative/)
   2. 
