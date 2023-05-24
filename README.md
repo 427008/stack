@@ -6,7 +6,7 @@
     - универсальный, широко распространенный фреймворк с большим количеством модулей для Spring.
     - есть OpenJDK & [Axiom JDK](https://axiomjdk.ru/pages/about) (БЕЛЛСОФТ, включена в Единый реестр российских программ), [JMIX](https://www.jmix.io/framework), [JMIX Access](https://www.jmix.io/ms-access-alternative) (возможно тоже в реестре).
     - среда для разработки IntelliJ IDEA Community.
-    - docker friendly - декларируется поддержка создания приложений для "облака".
+    - docker friendly.
     - возможно использование технологий Kotlin (может компилироваться в JS), WebFlux (reactive programming).
     - простой язык (пример кода):
 ```
