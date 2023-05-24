@@ -2,7 +2,12 @@
 1. Java
   - [Spring](https://spring.io/)  
     основные возможности: Microservices + Web apps  
-    пример кода:
+    плюсы:
+    - универсальный, широко распространенный фреймворк с большим количеством модулей (библиотек)
+    - есть OpenJDK & [Axiom JDK](https://axiomjdk.ru/pages/about) (БЕЛЛСОФТ, включена в Единый реестр российских программ),  
+    - среда для разработки IntelliJ IDEA Community Edition
+    - docker friendly - декларируется поддержка создания приложений для "облака"
+    - простой язык, пример кода:
 ```
     @SpringBootApplication  
     @RestController  
@@ -13,7 +18,5 @@
         }  
     }  
 ```
-  - плюсы:
-    - универсальный, широко распространенный фреймворк с большим количеством модулей (библиотек)
-    - есть OpenJDK & Axiom JDK (БЕЛЛСОФТ, включена в Единый реестр российских программ) 
-    - среда для разработки IntelliJ IDEA Community Edition
+    - возможно использование технологий Kotlin (может компилироваться в JS), WebFlux (reactive programming), [jmix](https://www.jmix.io/ms-access-alternative/)
+  2. 
