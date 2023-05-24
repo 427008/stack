@@ -2,7 +2,7 @@
 1. Java
   - [Spring](https://spring.io/) возможности Microservices + Web apps  
     пример кода:
-`
+```
     @SpringBootApplication  
     @RestController  
     public class DemoApplication {  
@@ -11,4 +11,4 @@
             return"Hello World!";  
         }  
     }  
-`
+```
