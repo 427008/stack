@@ -32,7 +32,7 @@
     - Python обычно есть в любых linux-дистрибутивах из коробки.
     - Среда разработки PyCharm Community.
     - docker friendly.
-    - Python также можно использовать в ML, и как linux task script (PowerShell).
+    - Python также можно использовать в ML, и как linux shell script (PowerShell).
     - простой язык (пример кода):
 ```
 from flask import Flask  
