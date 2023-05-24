@@ -17,6 +17,6 @@
             return"Hello World!";  
         }  
     }  
-```
+```  
     - возможно использование технологий Kotlin (может компилироваться в JS), WebFlux (reactive programming), [jmix](https://www.jmix.io/ms-access-alternative/)
   2. 
