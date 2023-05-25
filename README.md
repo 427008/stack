@@ -4,7 +4,8 @@
     _основные возможности_: API, микросервисы + веб приложения  
     _плюсы_:
     - универсальный, широко распространенный фреймворк с большим количеством модулей для Spring.
-    - есть OpenJDK & [Axiom JDK](https://axiomjdk.ru/pages/about) (БЕЛЛСОФТ, включена в Единый реестр российских программ), [JMIX](https://www.jmix.io/framework), [JMIX Access](https://www.jmix.io/ms-access-alternative) (возможно тоже в реестре).
+    - OpenJDK & [Axiom JDK](https://axiomjdk.ru/pages/about) (БЕЛЛСОФТ, включена в Единый реестр российских программ)  
+    - [JMIX](https://www.jmix.io/framework), [JMIX Access](https://www.jmix.io/ms-access-alternative) (возможно тоже в реестре).
     - есть наборы UI компонентов [Vaadin](https://vaadin.com/docs/latest/components)
     - среда для разработки IntelliJ IDEA Community.
     - docker friendly.
