@@ -44,5 +44,5 @@ app = Flask(__name__)
 def hello_world():  
     return "<p>Hello, World!</p>"  
 ```
-  - [Kivy](https://github.com/kivy/kivy)
+  - [Kivy](https://github.com/kivy/kivy), [wxWidgets](https://github.com/wxWidgets/wxWidgets), (Toga)(https://github.com/beeware/toga)  
     основные возможности: open-source cross-platform GUI apps
