@@ -46,7 +46,7 @@ def hello_world():
 ```
   - [Kivy](https://github.com/kivy/kivy), [wxWidgets](https://github.com/wxWidgets/wxWidgets), [Toga](https://github.com/beeware/toga)  
     _основные возможности_: open-source cross-platform GUI apps
-  - [Dash](https://dash.plotly.com/dash-core-components) + [Git](https://github.com/plotly/dash)  
+  - [Dash](https://dash.plotly.com/dash-core-components) + [Dash in GitHub](https://github.com/plotly/dash)  
     _основные возможности_: создание богатого интерфейса на Python, "под капотом" Plotly.js, React and Flask
 
 3. C#
