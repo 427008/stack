@@ -1,7 +1,7 @@
 # stack
 1. Java
   - [Spring](https://spring.io)  
-    основные возможности: микросервисы + веб приложения  
+    _основные возможности_: API, микросервисы + веб приложения  
     плюсы:
     - универсальный, широко распространенный фреймворк с большим количеством модулей для Spring.
     - есть OpenJDK & [Axiom JDK](https://axiomjdk.ru/pages/about) (БЕЛЛСОФТ, включена в Единый реестр российских программ), [JMIX](https://www.jmix.io/framework), [JMIX Access](https://www.jmix.io/ms-access-alternative) (возможно тоже в реестре).
@@ -22,18 +22,18 @@
 ```
 
   - [JavaFX](https://openjfx.io)
-    основные возможности: open-source cross-platform GUI apps
+    _основные возможности_: open-source cross-platform GUI apps
     
 2. Python
   - [Django](https://www.djangoproject.com), [Flask](https://flask.palletsprojects.com/en/2.3.x)  
-    основные возможности: микросервисы, основной Python бакэнд + шаблонизаторы страниц  
+    _основные возможности_: API, микросервисы, основной Python бакэнд + шаблонизаторы страниц  
     плюсы:
     - широко распространенные фреймворки.
     - огромное количество модулей (библиотек) для Python.
     - Python обычно есть в любых linux-дистрибутивах из коробки.
-    - Среда разработки PyCharm Community.
+    - среда разработки PyCharm Community.
     - docker friendly.
-    - Python также можно использовать в ML, и как linux shell script (PowerShell).
+    - Python также можно использовать в ML, и как linux shell script (аналогично PowerShell в Windows).
     - простой язык (пример кода):
 ```
 from flask import Flask  
@@ -44,5 +44,14 @@ app = Flask(__name__)
 def hello_world():  
     return "<p>Hello, World!</p>"  
 ```
-  - [Kivy](https://github.com/kivy/kivy), [wxWidgets](https://github.com/wxWidgets/wxWidgets), (Toga)(https://github.com/beeware/toga)  
-    основные возможности: open-source cross-platform GUI apps
+  - [Kivy](https://github.com/kivy/kivy), [wxWidgets](https://github.com/wxWidgets/wxWidgets), [Toga](https://github.com/beeware/toga)  
+    _основные возможности_: open-source cross-platform GUI apps
+  - [Dash](https://dash.plotly.com/dash-core-components) + (Git)[https://github.com/plotly/dash]  
+    _основные возможности_: создание богатого интерфейса на Python, "под капотом" Plotly.js, React and Flask
+
+3. C#
+  - [NET6]()  
+    основные возможности: API, микросервисы + фронтенд (Blazor)  
+    плюсы:
+    - большое количество модулей (библиотек)
+    - среда разработки Visual Studio Community
