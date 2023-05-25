@@ -56,7 +56,7 @@ def hello_world():
     - большое количество модулей (библиотек)
     - среда разработки Visual Studio Community
     - docker friendly
-  - [UNO](https://github.com/unoplatform/uno) [описание для linux](https://platform.uno/uno-platform-for-linux)  
+  - [UNO](https://github.com/unoplatform/uno) + [описание для linux](https://platform.uno/uno-platform-for-linux)  
     _основные возможности_: Mobile, Desktop and WebAssembly apps with C# and XAML 
   - [GtkSharp](https://github.com/GtkSharp/GtkSharp)
     _основные возможности_: C# Desktop = wrapper for Gtk 
