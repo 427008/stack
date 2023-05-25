@@ -30,7 +30,7 @@
     _основные возможности_: API, микросервисы, бэкенд + шаблонизаторы страниц  
     плюсы:
     - широко распространенные фреймворки.
-    - огромное количество модулей (библиотек) для Python. Mожно использовать в ML, и как linux shell script (аналогично PowerShell в Windows) и т.д.
+    - огромное количество модулей (библиотек) для Python. [GeoPandas](https://geopandas.org/en/stable/docs/user_guide/mapping.html), можно использовать в ML, и как linux shell script (аналогично PowerShell в Windows) и т.д.
     - Python обычно есть в любых linux-дистрибутивах из коробки.
     - среда разработки PyCharm Community.
     - docker friendly.
