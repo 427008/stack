@@ -56,6 +56,8 @@ def hello_world():
     - большое количество модулей (библиотек)
     - среда разработки Visual Studio Community
     - docker friendly
+  - [Avalonia](https://github.com/AvaloniaUI/Avalonia/)
+    _основные возможности_: Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project
   - [UNO](https://github.com/unoplatform/uno) + [описание для linux](https://platform.uno/uno-platform-for-linux)  
     _основные возможности_: Mobile, Desktop and WebAssembly apps with C# and XAML 
   - [GtkSharp](https://github.com/GtkSharp/GtkSharp)
