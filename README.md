@@ -62,15 +62,3 @@ def hello_world():
     _основные возможности_: Mobile, Desktop and WebAssembly apps with C# and XAML 
   - [GtkSharp](https://github.com/GtkSharp/GtkSharp)  
     _основные возможности_: C# Desktop = wrapper for Gtk 
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-
-| Syntax | Description |
-| --- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-| Header | Title |
