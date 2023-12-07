@@ -67,3 +67,10 @@ def hello_world():
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
+| Paragraph   | Text        |
+
+| Syntax | Description |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+| Header | Title |
