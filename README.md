@@ -63,10 +63,7 @@ def hello_world():
   - [GtkSharp](https://github.com/GtkSharp/GtkSharp)  
     _основные возможности_: C# Desktop = wrapper for Gtk 
 
----
-a: 1
----
-
-a | b
-- | -
-1 | 2
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
